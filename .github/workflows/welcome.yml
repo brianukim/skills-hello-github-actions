@@ -1,0 +1,6 @@
+name: HELLLO BRIAN HANDSOME MAN
+on:
+  pull_request:
+    types: [opened]
+permissions:
+  pull-requests: write
